@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👁️‍🗨️ voidchant
 
-<!--
-**voidxchant/voidxchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> weaving code into frequencies you can't quite explain.
 
-Here are some ideas to get you started:
+🧪 I explore:  
+- ✨ Machine Learning & AI  
+- ⚙️ Systems & Automation  
+- 🕸️ Web Tech & APIs  
+- 🔐 Privacy-first Builds  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧭 Guided by:  
+- curiosity, confusion, and controlled chaos  
+- the beauty of clean code and broken patterns  
+- quiet noise & loud ideas  
+
+📡 Occasionally transmitting here.  
+👁️ Stay tuned.
